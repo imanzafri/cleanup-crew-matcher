@@ -1,0 +1,17 @@
+id,name,age,role_or_skills,certificate,transport,available,lives_in
+V01,Aiman,24,team leader (trained),-,own car,"Sat, Sun",Kg Contoh Hilir
+V02,Mei Ling,21,first aider,valid until 2027,public transport,Sat,Bandar Contoh
+V03,Ravi,35,qualified electrician,listed as qualified by NGO,own van,Sat,Bandar Contoh
+V04,Siti,19,cleaning,-,motorbike,"Sat, Sun",Kg Contoh Tengah
+V05,Daniel,22,"cleaning, heavy lifting",-,none,Sat,Kg Contoh Hilir
+V06,Farah,30,team leader (trained),-,own car,Sun only,Taman Contoh Jaya
+V07,Hafiz,20,electrical TVET student (not qualified),-,motorbike,Sat,Bandar Contoh
+V08,Nurul,23,first aider,expired in 2023,public transport,Sat,Bandar Contoh
+V09,Kumar,41,lorry driver,-,own 1-tonne lorry,Sat,Kg Contoh Darat
+V10,Aisyah,20,cleaning,-,public transport,Sat,Bandar Contoh
+V11,Wei Jie,17,cleaning,-,bicycle,Sat,Kg Contoh Hilir
+V12,Zul,28,"cleaning, carpentry",-,own car,Sat,Taman Contoh Jaya
+V13,Priya,26,befriending elderly residents,-,public transport,Sat,Bandar Contoh
+V14,Amir,22,cleaning,-,none,not stated,Kg Contoh Hilir
+V15,Lim,33,team leader (trained),-,own car,Sat,Bandar Contoh
+V16,Hana,25,first aider,valid until 2027,none,Sat,Kg Contoh Tengah

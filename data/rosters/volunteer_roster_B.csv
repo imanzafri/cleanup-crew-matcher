@@ -1,0 +1,19 @@
+id,name,age,role_or_skills,certificate_or_licence,transport,free_seats,available,lives_in
+W01,Syafiq,27,team leader (trained),-,own car,3,Sun 8am-12pm,Kg Contoh Baru
+W02,Grace,24,first aider,valid until 2027,public transport,0,Sun 8am-12pm,Pekan Contoh
+W03,Azman,45,electrician,licence current until 2028,own van,2,Sun 8am-12pm,Pekan Contoh
+W04,Nadia,22,cleaning,-,none,0,Sun 8am-12pm,Kg Contoh Baru
+W05,Rosnah,50,"cleaning, cooking",-,own car,3,Sun 8am-12pm,Kg Contoh Baru
+W06,Ahmad,17,cleaning (coming with his mother W05),-,none,0,Sun 8am-12pm,Kg Contoh Baru
+W07,Kavitha,29,first aider,valid until 10 Nov 2026,own car,3,Sun 8am-12pm,Taman Contoh Permai
+W08,Jason,31,team leader (trained),-,motorbike,0,Sun after 2pm only,Pekan Contoh
+W09,Farid,38,electrician,licence expired in 2025,own car,2,Sun 8am-12pm,Taman Contoh Permai
+W10,Nadia R.,22,cleaning,-,none,0,Sun 8am-12pm,Kg Contoh Baru
+W11,Hakim,20,"cleaning, heavy lifting",-,motorbike,0,Sun 8am-12pm,Kg Contoh Baru
+W12,Mei Xin,23,cleaning,-,public transport,0,Sun 8am-12pm,Pekan Contoh
+W13,Rahman,34,lorry driver,-,own 1-tonne lorry,1,Sat only,Kg Contoh Darat
+W14,Siti Aminah,41,first aider,valid until 2028,public transport,0,Sun 8am-12pm,Kg Contoh Baru
+W15,Daniel,18+,cleaning,-,none,0,Sun 8am-12pm,Pekan Contoh
+W16,Tan,,cleaning,-,own car,3,Sun 8am-12pm,Pekan Contoh
+W17,Priyanka,26,team leader (trained),-,own car,3,Sun 8am-12pm,Taman Contoh Permai
+W18,Lutfi,21,befriending elderly residents,-,public transport,0,Sun 8am-12pm,Kg Contoh Baru
