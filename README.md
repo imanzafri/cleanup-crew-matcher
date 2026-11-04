@@ -11,7 +11,6 @@ After a flood, an NGO coordinator has damaged houses, a list of volunteers and t
 ## What's in this repo
 
 ```
-video/          3-minute demo video (submission)
 screenshots/    5 app screenshots (submission)
 data/
   photos/       B1–B4 (main demo), H1–H3 (gas/appliance test)
