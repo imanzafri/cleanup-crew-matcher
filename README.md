@@ -5,7 +5,7 @@
 After a flood, an NGO coordinator has damaged houses, a list of volunteers and their own safety rules. CleanUp Crew Matcher turns **house photos + house notes + a volunteer roster + the NGO's crew rules** into job cards, safety hand-offs, a rule-checked crew plan and ready-to-send briefings. A coordinator approves every crew.
 
 - **App:** https://partyrock.aws/u/imanzafri/8_6Tgd6bg/Cleanup-Crew-Matcher
-- **Demo video (3 min):** https://youtu.be/Gg3ymEUdcFU
+- **Demo video (3 min):** https://youtu.be/cUt2TyvvkEo
 - **Screenshots:** [`screenshots/`](screenshots/)
 
 ## What's in this repo
